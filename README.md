@@ -12,8 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/guthias">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guthias&count_private=true&theme=github_dark&show_icons=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guthias&layout=compact&theme=github_dark&show_icons=true" />
-    <img height="200emr" src="http://github-readme-streak-stats.herokuapp.com?user=guthias&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guthias&count_private=true&theme=github_dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guthias&layout=compact&theme=github_dark&show_icons=true" />
+  <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=guthias&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF" /></a>
 </div>
