@@ -6,7 +6,6 @@
 - 📚  Currently i'm studying web development at [Trybe](https://www.betrybe.com/)
 - 💻  Competly in love about programming since my 13
 - 📫  How to reach me mailto:gmgustavom@gmail.com
-- 💬  Ask me about anything, I'll love help 
 - 🕹️  On my free-time I'm playing and talking with my Friends
 - 💬  Ask me about **Anything, I love help ❤️**
 
