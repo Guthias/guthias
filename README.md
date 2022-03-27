@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guthias&label=Profile%20views&color=0e75b6&style=flat" alt="guthias" /> </p>
-<h1 align="center">Hey 👋, I'm Guthias (Gustavo Guthias)</h1>
+<h1 align="center">Hey 👋, I'm Guthias (Gustavo Mathias)</h1>
 <h3 align="center">A Web Developer from Brazil</h3>
 
 - 🏡  Belo Horizonte - Brazil
